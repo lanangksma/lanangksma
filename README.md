@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I'am Lanang Kusuma a Student!!</h2>
+<h2 align="left">I'm Lanang Kusuma, and I'm a student!</h2>
 
 ###
 
@@ -27,6 +27,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lanangksma/lanangksma/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/VtFUW-durpoAAAAC/kururin-kuru-kuru.gif"  />
+</div>
 
 ###
