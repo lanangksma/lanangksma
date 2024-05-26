@@ -18,6 +18,14 @@
 ###
 
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=lanangksma&theme=discord-old-blurple&border_radius=5.1&card_width=490" alt="GitHub Streak" />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
