@@ -11,16 +11,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lanangksma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lanangksma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lanangksma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lanangksma&theme=discord-old-blurple&border_radius=5.1&card_width=490" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=lanangksma&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   </a>
 </div>
+
 ###
 
 <div align="center">
