@@ -1,42 +1,47 @@
-<h1 align="left">Hello World!!</h1>
+# 👋 Hello, I'm Lanang Kusuma
 
-###
+### Informatics Engineering Student | Full-Stack & DevOps Enthusiast
 
-<h2 align="left">I'm Lanang Kusuma, and I'm a student!</h2>
+Undergraduate student passionate about software development and cloud technologies. Currently expanding my skills in both frontend and backend development while exploring DevOps practices.
 
-###
-
-<p align="left">This year, I've decided to write as much code as possible to upgrade my knowledge and skills. I'm currently learning JavaScript, and I'm really excited to see what I can achieve in the next year!</p>
-
-###
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lanangksma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lanangksma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="30" alt="PHP" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Tailwindcss-3776AB?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" alt="TailwindCSS" />
 </div>
 
-###
+## 🚀 DevOps Exposure
+- CI/CD Pipelines
+- Containerization Basics
+- Cloud Services Fundamentals
+- Linux environment
+
+## 🌱 Currently Learning
+- Advanced Python programming
+- DevOps tools (Docker, Kubernetes)
+- Cloud infrastructure (AWS/GCP)
+- TypeScript best practices
+
+## 🎯 Goals
+- Contribute to meaningful open-source projects
+- Develop full-stack applications with DevOps integration
+- Master system architecture principles
+- Bridge development and operations through automation
+  
+  ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lanangksma&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn">
+  </a>
+  <a href="/" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email">
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/VtFUW-durpoAAAAC/kururin-kuru-kuru.gif"  />
-</div>
-
-###
+<br>
